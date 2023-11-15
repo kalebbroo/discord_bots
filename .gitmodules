@@ -1,0 +1,12 @@
+[submodule "Str-AI-hd_von_ZaroBot"]
+	path = Str-AI-hd_von_ZaroBot
+	url = https://github.com/kalebbroo/Str-AI-hd_von_ZaroBot.git
+[submodule "plex_music_bot"]
+	path = plex_music_bot
+	url = https://github.com/kalebbroo/plex_music_bot.git
+[submodule "LRD_bot"]
+	path = LRD_bot
+	url = https://github.com/kalebbroo/LRD_bot.git
+[submodule "bAIb_Ross"]
+	path = bAIb_Ross
+	url = https://github.com/kalebbroo/bAIb_Ross.git
